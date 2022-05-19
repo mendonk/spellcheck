@@ -11,7 +11,7 @@ Add containerized spellcheck and a custom dictionary to your Asciidoc repo.
 * `aspell.dict` - the dictionary the spellchecker uses. Modify the dictionary to add exceptions for your individual project. 
 * `Dockerfile` - builds a base container and tooling. 
 
-3. Push these changes to the repo. This will cause the Spellcheck GitHub action to run. 
+3. Push these changes to your asciidoc repo. This will cause the Spellcheck GitHub action to run. 
 
 4. A successful run of Spellcheck will still show an Action failure if you have spelling errors. Fix spelling errors and modify your dictionary (see below) until you pass.
 
