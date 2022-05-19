@@ -1,5 +1,5 @@
 # Spellcheck
-Add containerized spellcheck functionality and a dictionary to your Asciidoc repo.
+Add containerized spellcheck and a custom dictionary to your Asciidoc repo.
 
 # Installation
 
